@@ -2,7 +2,7 @@
 title: My Second Blog Post!
 published_at: 2024-03-09T15:00:00.000Z
 snippet: This is an excerpt of my second blog post.
-disable_sanitize_html: true
+disable_sanitisation_html: true
 ---
 
 **My Important Place footage:**
