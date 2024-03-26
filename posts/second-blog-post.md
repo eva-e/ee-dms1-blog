@@ -5,7 +5,7 @@ snippet: This is an excerpt of my second blog post.
 disable_html_sanitisation: true
 ---
 
-**My 30 second footage:**
+**My Important Place footage:**
 
 <!-- # This is h1
 
