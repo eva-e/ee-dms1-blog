@@ -1,9 +1,11 @@
 ---
 title: My Second Blog Post!
 published_at: 2024-03-20T15:00:00.000Z
-snippet: This is an excerpt of my second blog post.
+snippet: WEEK 1 - SESSION 2
 disable_html_sanitization: true
 ---
+
+
 
 
 
