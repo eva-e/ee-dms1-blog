@@ -10,6 +10,7 @@ _**My Storyboard**_
 
 ![alt text](/images/storyboard.jpg)
 
+At this stage I was thinking to display flowers in different environments such as, grasslands, gardens and a pond, in order to maintain continuity between my scenes as my main concept is based around flowers and blossoming of nature, in relation to the meaning of my Greek name Evanthia, which means flower blossoming. The first scene will feature a grassland with two pink flowers in the distance, in which the camera gradually gets closer blurring second and next the first,
 
 
 
