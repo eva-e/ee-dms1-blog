@@ -10,7 +10,7 @@ _**My Storyboard**_
 
 ![alt text](/images/storyboard.jpg)
 
-At this stage I was thinking to display flowers in different environments such as, grasslands, gardens and a pond, in order to maintain continuity between my scenes as my main concept is based around flowers and blossoming of nature, in relation to the meaning of my Greek name Evanthia, which means flower blossoming. The first scene will feature a grassland with two pink flowers in the distance, in which the camera gradually gets closer blurring second and next the first,
+_**At this stage I was thinking to display flowers in different environments such as, grasslands, gardens and a pond, in order to maintain continuity between my scenes as my main concept is based around flowers and blossoming of nature, in relation to the meaning of my Greek name Evanthia, which means flower blossoming. The first scene will feature a grassland with two pink flowers in the distance, in which the camera gradually gets closer blurring the second and next the first. The idea was to film at quite a rested and slow pace in which the movements would be smooth. The next scene is a close up shot of a few flowers, the background out of focus, a type of blur made by the camera. From these first two scenes I hope it may appeal to an appreciation of nature for viewers with a sense of tranquility, captured by the slow movement and juxtaposition of the focused flower and unfocused flower. My themes of nature, art and music, which I plan on featuring in the film, reflect on my interests within the self portrait.**_
 
 
 
