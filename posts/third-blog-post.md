@@ -1,6 +1,6 @@
 ---
 title: My Third Blog Post
-published_at: 2024-03-20T15:00:00.000Z
+published_at: 2024-03-28T15:00:00.000Z
 snippet: WEEK 2 - SESSION 1 
 disable_html_sanitization: true 
 ---
