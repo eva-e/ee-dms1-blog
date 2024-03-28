@@ -6,7 +6,7 @@ disable_html_sanitization: true
 ---
 
 
-**Digital Design Project 1 Draft**
+_**Digital Design Project 1 Draft**_
 
 
 

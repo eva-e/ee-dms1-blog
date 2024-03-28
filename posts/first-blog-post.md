@@ -6,7 +6,7 @@ disable_html_sanitization: true
 ---
 Scavenger Hunt Images: Incomplete due to medical absence
 
-**My Important Place footage:**
+_**My Important Place footage:**_
 
 **Bells Beach**
 
