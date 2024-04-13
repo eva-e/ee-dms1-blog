@@ -6,6 +6,11 @@ disable_html_sanitization: true
 ---
 _**Black Squares Activity**_
 
+![alt text](/images/blacksquaresdesigns.jpg)
+
+**at least some discussion on how you explicitly applied skills learned in the video tutorials, and how you applied elements of design thinking to the task.**
+
+
 
 
 <!-- # This is h1
