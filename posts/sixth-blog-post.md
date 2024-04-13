@@ -6,10 +6,10 @@ disable_html_sanitization: true
 ---
 _**Black Squares Activity**_
 
-My Designs:
+**My Designs:**
 ![alt text](/images/blacksquaresdesigns.jpg)
 
-Most Effective:
+**Most Effective:**
 ![alt text](/images/mosteffective.jpg)
 
 
