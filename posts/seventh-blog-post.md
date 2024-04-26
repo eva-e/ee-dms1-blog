@@ -10,6 +10,10 @@ _**Thumbnail Sketches**_
 
 **From my 20 thumbnail sketches, I believe the second sketch is the most effective due to its relation with the name of the gaming brand, which is Xbox. The sketch includes a rounded shape overlapping the same one in the form of the letter x, with a box outlined around it, signifying an x in a box. The soft composition of the rounded x shape, is intentionally designed, constrasting with the sharpness of the box around it.**
 
+_**45 Thumbnail Sketches**_
+
+
+
 <!-- # This is h1
 
 ## This is h2
