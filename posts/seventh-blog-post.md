@@ -13,6 +13,7 @@ _**Thumbnail Sketches**_
 _**45 Thumbnail Sketches**_
 
 ![alt text](/images/45iconsimageone.jpg)
+![alt text](/images/45iconsimagetwo.jpg)
 
 <!-- # This is h1
 
