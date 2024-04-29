@@ -13,7 +13,10 @@ _**Thumbnail Sketches**_
 _**45 Thumbnail Sketches**_
 
 ![alt text](/images/45iconsimageone.jpg)
-![alt text](/images/45iconsimagetwo.png)
+![alt text](/images/45iconsimagetwo.png) 
+
+<!-- Upload these sketches to your blog, and evaluate your work with a post that identifies and comments on the thumbnail sketches that you think are the best for each icon. Justify these choices by commenting on how you applied the elements of design in each case. -->
+
 
 <!-- # This is h1
 
