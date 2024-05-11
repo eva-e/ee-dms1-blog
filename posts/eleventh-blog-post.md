@@ -1,7 +1,7 @@
 ---
-title: My Tenth Blog Post
+title: My Eleventh Blog Post
 published_at: 2024-05-11T15:00:00.000Z
-snippet: WEEK 7 - SESSION 2
+snippet: WEEK 7 - SESSION 1
 
 ---
 
