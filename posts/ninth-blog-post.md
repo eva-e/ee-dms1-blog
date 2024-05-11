@@ -1,7 +1,7 @@
 ---
 title: My Ninth Blog Post
-published_at: 2024-05-09T15:00:00.000Z
-snippet: WEEK 8 - SESSION 1
+published_at: 2024-05-11T15:00:00.000Z
+snippet: WEEK 7 - SESSION 1
 
 ---
 
