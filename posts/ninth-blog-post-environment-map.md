@@ -1,6 +1,6 @@
 ---
-title: My Ninth Blog Post
-published_at: 2024-05-11T15:00:00.000Z
+title: My Ninth Blog Post (Environment Map)
+published_at: 2024-05-01T15:00:00.000Z
 snippet: WEEK 7 - SESSION 1
 
 ---
