@@ -4,7 +4,7 @@ published_at: 2024-05-01T15:00:00.000Z
 snippet: WEEK 7 - SESSION 1
 
 ---
-
+<!-- **A written and/or visual breakdown of how your environment will change or evolve over the journey, and how this connects to your concept. This can include visual references such as your colour palette(s), inspiration, and so on.** -->
 
 
 
