@@ -4,7 +4,7 @@ published_at: 2024-05-01T15:00:00.000Z
 snippet: WEEK 7 - SESSION 1
 
 ---
-
+<!-- **A short statement of at least 50 words that outlines your core concept in simple terms.** -->
 
 
 
