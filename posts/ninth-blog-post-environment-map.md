@@ -4,6 +4,7 @@ published_at: 2024-05-01T15:00:00.000Z
 snippet: WEEK 7 - SESSION 1
 
 ---
+**Environment Map**
 <!-- **A simple map of your environment, produced either traditionally or digitally, that shows how the user will move through the space from beginning to end** -->
 
 
