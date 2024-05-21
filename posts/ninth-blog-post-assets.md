@@ -1,6 +1,6 @@
 ---
 title: My Ninth Blog Post (Assets)
-published_at: 2024-05-01T15:00:00.000Z
+published_at: 2024-05-07T15:00:00.000Z
 snippet: WEEK 7 - SESSION 1
 
 ---
