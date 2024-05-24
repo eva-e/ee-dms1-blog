@@ -4,7 +4,6 @@ published_at: 2024-05-21T15:00:00.000Z
 snippet: WEEK 8 - SESSION 2 & WEEK 9 - SESSION 1
 
 ---
-**Sound Design**
 
 **Playtest & Feedback**
 
