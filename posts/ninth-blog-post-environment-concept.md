@@ -12,6 +12,9 @@ _**Environment Concept**_
 
 _**Personal Photo Inspirations**_
 
+![alt text](/images/japanesebridge.jpg)
+![alt text](/images/blossomflower.jpg)
+
 _**Colour Palette Samples**_
 
 Environment 1:
