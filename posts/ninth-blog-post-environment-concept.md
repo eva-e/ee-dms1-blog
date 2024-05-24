@@ -6,6 +6,7 @@ snippet: WEEK 7 - SESSION 1
 ---
 **Environment Concept**
 
+**The visualisation of my environment concept was imagined as I thought about how I felt in one area of life compared to the other.**
 
 <!-- **A written and/or visual breakdown of how your environment will change or evolve over the journey, and how this connects to your concept. This can include visual references such as your colour palette(s), inspiration, and so on.** -->                                                                                   
 

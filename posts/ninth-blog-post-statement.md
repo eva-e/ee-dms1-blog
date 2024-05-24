@@ -5,6 +5,8 @@ snippet: WEEK 7 - SESSION 1
 
 ---
 **Statement**
+
+**
 <!-- **A short statement of at least 50 words that outlines your core concept in simple terms.** -->
 
 
