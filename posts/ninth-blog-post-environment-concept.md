@@ -11,10 +11,10 @@ The use of a bridge to change environment, starts in a cyberpunk city. The sound
 
 **Colour Palette Samples**
 Environment 1:
-![alt text](/images/bloomcolourpalette2.JPG)
+![alt text](/images/bloomcolourpalette2.png)
 
 Environment 2:
-![alt text](/images/bloomcolourpalette1.JPG)
+![alt text](/images/bloomcolourpalette1.png)
 <!-- **A written and/or visual breakdown of how your environment will change or evolve over the journey, and how this connects to your concept. This can include visual references such as your colour palette(s), inspiration, and so on.** -->                                                                                   
 
 
