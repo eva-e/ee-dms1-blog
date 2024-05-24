@@ -4,7 +4,7 @@ published_at: 2024-05-07T15:00:00.000Z
 snippet: WEEK 7 - SESSION 1
 
 ---
-**Asset Ideation**
+_**Asset Ideation**_
 
 **In terms of my two environments, the city and cherry blossom pathway, I have a variety of assets in mind, including 3D models, sounds and textures, all sourced from Sketchfab, the Unity Asset store and Youtube for sounds, as I am not planning on creating my own. The 3D model assets which I anticipate to use at this stage, include a range of different city buildings, a bridge, a river, cherry blossom and bonzai trees and a park bench seat. For my sounds, I plan to incorporate two different songs, a futuristic and tense instrumental track and a tranquil track. I also would like to add a river sound effect when the player is near to the river. The desired textures for the city include a stone pathway and for the cherry blossom environment, a few more detailed textures, such as, grass, flower beds and a sandy gravel pathway. Lastly, I am thinking to have a semi cloudy sunset sky for the terrain skybox.**
 

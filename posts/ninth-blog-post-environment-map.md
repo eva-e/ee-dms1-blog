@@ -4,7 +4,7 @@ published_at: 2024-05-07T15:00:00.000Z
 snippet: WEEK 7 - SESSION 1
 
 ---
-**Environment Map**
+_**Environment Map**_
 
 **Below is a rough copy of my initial environment map. I have also thought about adding an additional element which is a gazebo with a cherry blossom plant inside, placed on a table.**
 
