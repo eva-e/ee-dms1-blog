@@ -10,7 +10,7 @@ snippet: WEEK 7 - SESSION 1
 
 **For example here is a Japanese Garden Asset Pack which looks the most suitable in terms of my design concept for the environment:**
 
-![alt text](/images/blossomandbonsai.JPG)
+![alt text](/images/blossomandbonsai.jpg)
 
 
 <!-- **A list of assets (3D models, sounds, textures, etc.) that will be required for your project. Specify which you will create yourself, and which you will source or edit from elsewhere.** -->
