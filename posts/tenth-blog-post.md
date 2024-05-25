@@ -10,7 +10,15 @@ _**Greybox Prototype**_
 
 _**Screenshots**_
 
+![alt text](/images/plainterraingreyb.png)
 
+![alt text](/images/paintedterraingreyb.png)
+
+![alt text](/images/paintedterraingreyb2.png)
+
+![alt text](/images/paintedterraingreyb3.png)
+
+![alt text](/images/pathwaygreyb1.png)
 
 <!-- 2. Using the design documents that you generated for your last homework task, and the navigation design concepts explored in class today, block out your environment design in Unity. 
 3. Start with basic primitives such as cubes and spheres to establish landmarks, paths, and other spatial design elements. You may also use the terrain tool for outdoor environments. 
