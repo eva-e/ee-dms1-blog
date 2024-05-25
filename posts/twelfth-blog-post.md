@@ -2,21 +2,27 @@
 title: My Twelfth Blog Post
 published_at: 2024-05-22T15:00:00.000Z
 snippet: WEEK 8 - SESSION 2 & WEEK 9 - SESSION 1
-
+disable_html_sanitization: true
 ---
-
-_**Playtest & Feedback**_
-
 
 _**Feedback Form Link**_
 
 https://forms.gle/HHvhxXNrqJr6EgRY7 
 
+_**Playtest & Feedback**_
+
+I recieved feedback from an anonymous classmate through Google Forms and my dad. From my classmates feedback, they described the emotion/feeling of the environment change as, "the emotion of being captured and trapped in a small place and then escaping for freedom". From their feedback it is evident that my intended emotion was felt and the word "freedom" is closely related to the second environment. The first improvement suggestion given by the classmate was to make the changes in environment look more obvious. My second testor was my dad. He described.... Below is a screen recording of his playtest.
+
 _**Playtest Screenrecording**_
+
+_**My Screenrecording**_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qyhbUdwy32Q?si=uYU9_d5fuGaBnlNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _**Asset References**_
 
 _**Terrain Assets:**_
+
 
 _**3D Models Unity Asset Store:**_
 
