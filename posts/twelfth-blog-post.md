@@ -6,7 +6,7 @@ snippet: WEEK 8 - SESSION 2 & WEEK 9 - SESSION 1
 ---
 
 _**Playtest & Feedback**_
-Dad:
+
 
 _**Feedback Form Link**_
 
@@ -14,7 +14,7 @@ https://forms.gle/HHvhxXNrqJr6EgRY7
 
 _**Playtest Screenrecording**_
 
-##_**Asset References**_
+_**Asset References**_
 
 _**Terrain Assets:**_
 
