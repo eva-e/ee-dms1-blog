@@ -10,7 +10,7 @@ _**Wayfinding Activity**_
 
 _**Photo**_
 
-![alt text](/images/groupphoto.png)
+![alt text](/images/groupphoto.jpg)
 
 _**Greybox Prototype**_
 
@@ -18,7 +18,7 @@ _**Greybox Prototype**_
 
 _**Screenshots**_
 
-![alt text](/images/plainterraingreyb.jpg)
+![alt text](/images/plainterraingreyb.png)
 
 ![alt text](/images/paintedterraingreyb.png)
 
