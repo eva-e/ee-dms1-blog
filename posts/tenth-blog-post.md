@@ -4,7 +4,7 @@ published_at: 2024-05-21T15:00:00.000Z
 snippet: WEEK 7 - SESSION 2
 
 ---
-**Wayfinding Activity**
+_**Wayfinding Activity**_
 
 **In this lesson we learnt about guiding navigation in relation to our 3D digital environments and how the path, thresholds and wayfinding contribute to the users experience through the environment. For the activity, as a group of 4, we were tasked to find our way together in the city to a specific location which was a restaurant. After checking where the location of the restaurant was on Google Maps for 5-10 minutes and attempting to remember streets and familar buildings, we set off together in search of the restaurant. A selfie was taken to document our achievement of discovery, navigating as group.**
 
@@ -18,7 +18,7 @@ _**Greybox Prototype**_
 
 _**Screenshots**_
 
-![alt text](/images/plainterraingreyb.png)
+![alt text](/images/plainterraingreyb.jpg)
 
 ![alt text](/images/paintedterraingreyb.png)
 
