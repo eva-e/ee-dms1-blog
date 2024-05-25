@@ -23,8 +23,44 @@ _**Asset References**_
 
 _**Terrain Assets:**_
 
+Name: Terrain Sample Asset Pack
+Publisher: Unity Technologies
+Link: https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
+
+Name: Terrain Textures Pack Free
+Publisher: ALP
+Link: https://assetstore.unity.com/packages/2d/textures-materials/nature/terrain-textures-pack-free-139542
+
+
+Name: Outdoor Ground Textures
+Publisher: A dog's life software
+Link: https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555 
+
+Name: Grass Flowers Pack Free
+Publisher: ALP
+Link: https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810
+
+Name: AllSky Free - 10 Sky / Skybox Set
+Publisher: rpgwhitelock
+Link: https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014 
+
+Name: AQUAS Lite - Built-In Render Pipeline
+Publisher: Dogmatic
+Link: https://assetstore.unity.com/packages/vfx/shaders/aquas-lite-built-in-render-pipeline-53519 
 
 _**3D Models Unity Asset Store:**_
+
+Name: Stylized Wooden Bench PBR
+Publisher: SIV Assets
+Link: https://assetstore.unity.com/packages/3d/props/stylized-wooden-bench-pbr-267777 
+
+Name: Japanese Garden Pack
+Publisher: Waldemarst
+Link: https://assetstore.unity.com/packages/3d/vegetation/trees/japanese-garden-pack-179492
+
+Name: Australian Street Sign Pack
+Publisher: Pop Up Productions
+Link: https://assetstore.unity.com/packages/3d/environments/urban/australian-street-sign-pack-213047
 
 _**3D Models SketchFab:**_
 
