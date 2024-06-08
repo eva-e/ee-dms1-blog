@@ -4,6 +4,28 @@ published_at: 2024-05-28T15:00:00.000Z
 snippet: WEEK 10 - SESSION 1
 
 ---
+**Assignment 1 Video Edit**
+**How did you approach the relationship between the sonic and visual components of your edit?**
+**How did you decide on the footage that you used to shape your project?**
+**What did you learn about the power of sound to shape emotional experience, and how did you apply this knowledge to your project?**
+**How does editing relate to the concepts of pacing and rhythm, and how did you use these concepts to shape your use of time in the project?** 
+**Which parts of your personality, interests, past, and potential future did you choose to depict in your portrait? What were the primary aesthetic choices that you made to express those ideas in your work?**
+
+**Assignment 2 - Graphic Icons**
+**How would you summarise your idea behind the suite of icons, and why did you choose
+the theme that you did?**
+**Did you iterate through a series of approaches before settling on one? What changed
+across those iterations, and why did you choose the one that you ended up with?**
+**How did you translate your thumbnail sketches into the final flat designs in Illustrator?**
+Was anything lost in that translation, or gained?
+• How did you use colour to create a sense of unity and visual interest in the icons? Why
+did you choose the palette that you did?
+• How did the elements and principles of sound that you used in your audio design
+correspond to the elements and principles of design that you used in your visual design?
+• How did you translate the prompt that you chose from an abstract idea to a set of
+concrete visual designs?
+
+
 
 <!-- 1. In a blog post, answer the self reflection questions from the lecture in as much detail as you can. 
 
