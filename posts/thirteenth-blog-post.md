@@ -27,7 +27,7 @@ snippet: WEEK 10 - SESSION 1
 **How did you unify the different elements of your virtual environment under a certain themeor concept?**
 **How did your theme or concept evolve over the project’s development?**
 **What did you discover through the process of play testing that you wouldn’t have discovered otherwise?**
-
+**I was inspired by the classical and impressionism art movement which I have articulated in my webpage. Both represent my interest and appreciation of classical and elegant design which embody my personality. Specifically, I have attempted to closely base my design from Claude Monet and his artwork due to a connection in my first project from the Digital Media Studio 1: Production course. The reason behind adding an artwork by Claude Monet called, The Water-Lily Pond, is because of the nature and bridge. The bridge is represented in my third assignment as new beginnings and the lily pond in my first as growth, purposefully building a connection between my projects in order to emphasise my admiration for both classical art and the appreciation of nature through design. I gained inspiration from the Claude Monet painting above my piano and the idea of new beginnings in my 3D digital environment.**
 
 <!-- 1. In a blog post, answer the self reflection questions from the lecture in as much detail as you can. 
 
