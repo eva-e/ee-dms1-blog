@@ -12,19 +12,21 @@ snippet: WEEK 10 - SESSION 1
 **Which parts of your personality, interests, past, and potential future did you choose to depict in your portrait? What were the primary aesthetic choices that you made to express those ideas in your work?**
 
 **Assignment 2 - Graphic Icons**
-**How would you summarise your idea behind the suite of icons, and why did you choose
-the theme that you did?**
-**Did you iterate through a series of approaches before settling on one? What changed
-across those iterations, and why did you choose the one that you ended up with?**
-**How did you translate your thumbnail sketches into the final flat designs in Illustrator?**
-Was anything lost in that translation, or gained?
-• How did you use colour to create a sense of unity and visual interest in the icons? Why
-did you choose the palette that you did?
-• How did the elements and principles of sound that you used in your audio design
-correspond to the elements and principles of design that you used in your visual design?
-• How did you translate the prompt that you chose from an abstract idea to a set of
-concrete visual designs?
+**How would you summarise your idea behind the suite of icons, and why did you choose the theme that you did?**
+**Did you iterate through a series of approaches before settling on one? What changed across those iterations, and why did you choose the one that you ended up with?** **How did you translate your thumbnail sketches into the final flat designs in Illustrator?**
+**Was anything lost in that translation, or gained?**
+**How did you use colour to create a sense of unity and visual interest in the icons? **Why did you choose the palette that you did?**
+**How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?**
+**How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?**
 
+**Assignment 3 - Virtual Environment**
+**How important was a working prototype to your design process? What did it offer that process?**
+**How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?**
+**What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?**
+**How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?**
+**How did you unify the different elements of your virtual environment under a certain themeor concept?**
+**How did your theme or concept evolve over the project’s development?**
+**What did you discover through the process of play testing that you wouldn’t have discovered otherwise?**
 
 
 <!-- 1. In a blog post, answer the self reflection questions from the lecture in as much detail as you can. 

@@ -10,7 +10,7 @@ _**Wireframe Improvements**_
 
 _**Wireframe Screenshots**_
 
-_**Webpage References**_
+_**Webpage Attributions**_
 
 <!-- Consider which elements of your webpage design could be made more accessible, using tools like WebAIM's Contrast CheckerLinks to an external site., or Figma's Color Contrast plugin. Some other interesting/good tips for considering how you can increase design thinking around web accessibility in general can be found hereLinks to an external site.. 
 
