@@ -32,9 +32,17 @@ snippet: WEEK 10 - SESSION 1
  **Through illustrator I was able to both translate my thumbnail sketches into final flat design and add more detail to some of them. Using the pen tool for all my designs and shapes, enabled me to create simple and neat flat designs. It took a while to build confidence in using the pen tool, however the more I drafted and experimented with my designs I soon was able to produce decent designs. I closely looked attempted to duplicate my sketch and illustrator design in terms of the line and shape of each icon, while a few I adjusted and altered, keeping a soft style, compared to the pencil drawn sketch.**
 
 ## Was anything lost in that translation, or gained?
+**I believe there was only one icon where I changed it entirely compared to my thumbnail sketch which is the "rest" sub theme. Instead of a bed and lamp, I changed this design to only a lamp for the final flat design as I intended to focus on how different lighting can change the atmosphere of a room and produce the feeling of calmness. My other icons gained additional details and refinement.**
+
+## How did you use colour to create a sense of unity and visual interest in the icons?
+**My icons encompass a range of colours from a colour palette I selected and used a colour generator to generate more shades. I started with green, pink, cream and brown. Green and pink relates to the colours of the dango dessert and tea. The other colours reminded me of soft/neutral shades that create a warm or calm ambience in a home or can also be derived from food colours. From these base colours I inputted them into Coolors, which generated more shades for each colour, providing my icons with a set of 10 colours where I also altered a few in the process of colouring the icons.**
+
+## Why did you choose the palette that you did?
+**This colour palette correlated with my idea of food and the cozy feeling of rain, reading and a homely presence. The inspiration for the base colours came from dango, tea and other foods. While my initial thought was based on food and desserts I was able to incorporate this colour palette into my non food related icons, such as the lotus, rain cloud, book, lamp, sakura, tea, seashell and plant.**
+
+## How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?
 **
-**How did you use colour to create a sense of unity and visual interest in the icons? **Why did you choose the palette that you did?**
-**How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?**
+
 **How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?**
 
 **Assignment 3 - Virtual Environment**
