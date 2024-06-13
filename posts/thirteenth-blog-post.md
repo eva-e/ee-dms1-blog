@@ -29,7 +29,10 @@ snippet: WEEK 10 - SESSION 1
 **Certainly I started with researching words and synonyms of calm, which benefited my final suite of icons as I was able to develop multiple sub themes. With the synonyms I also went towards the general calm symbols approach, in which I became too focused on the generic and common symbols, rather than capturing an original concept. I chose an original approach as it truly displayed my own interests and likings, compared to the common well known side of producing these icons from the theme calm. There are aspects of other my projects interwined in my icons suite, creating the flow of my artistry.**
 
  ## How did you translate your thumbnail sketches into the final flat designs in Illustrator?
-**Was anything lost in that translation, or gained?**
+ **Through illustrator I was able to both translate my thumbnail sketches into final flat design and add more detail to some of them. Using the pen tool for all my designs and shapes, enabled me to create simple and neat flat designs. It took a while to build confidence in using the pen tool, however the more I drafted and experimented with my designs I soon was able to produce decent designs. I closely looked attempted to duplicate my sketch and illustrator design in terms of the line and shape of each icon, while a few I adjusted and altered, keeping a soft style, compared to the pencil drawn sketch.**
+
+## Was anything lost in that translation, or gained?
+**
 **How did you use colour to create a sense of unity and visual interest in the icons? **Why did you choose the palette that you did?**
 **How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?**
 **How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?**
@@ -43,19 +46,10 @@ snippet: WEEK 10 - SESSION 1
 **How did your theme or concept evolve over the project’s development?**
 **What did you discover through the process of play testing that you wouldn’t have discovered otherwise?**
 
+_**Webpage Ideation**_
+**I was inspired by the classical and impressionism art movement which I have articulated in my webpage. Both represent my interest and appreciation of classical and elegant design which embody my personality. Specifically, I have attempted to closely base my design from Claude Monet and his artwork due to a connection in my first project from the Digital Media Studio 1: Production course. The reason behind adding an artwork by Claude Monet called, The Water-Lily Pond, is because of the nature and bridge. The bridge is represented in my third assignment as new beginnings and the lily pond in my first as growth, purposefully building a connection between my projects in order to emphasise my admiration for both classical art and the appreciation of nature through design. I gained inspiration from the Claude Monet painting above my piano and the idea of new beginnings in my 3D digital environment.**
 
 
-<!-- 1. In a blog post, answer the self reflection questions from the lecture in as much detail as you can. 
-
-2. Consider which pieces of process documentation and reflection will best communicate your personal, technical, and conceptual progress across the semester so far. 
-
-3. Begin to plan out the overall structure of your webpage, and consider how you will distribute this information across a timeline of the semester. Summarise this thought process in a blog post, and include responses to the following questions:
-
-     - What kind of key words do you want the user to associate with the aesthetics of your webpage?
-     - Who is the target audience?
-     - What features will your audience want to see in your final webpage design?
-
-4. Write a first draft of an artist statement for each of your projects: some useful tips for doing so can be found hereLinks to an external site..  -->
 
 
 
