@@ -5,7 +5,7 @@ snippet: WEEK 10 - SESSION 1
 
 ---
 **Assignment 1 Video Edit**
-## How did you approach the relationship between the sonic and visual components of your edit?**
+_## How did you approach the relationship between the sonic and visual components of your edit?_
 **My concept of a nature centred video surrounding the idea of connection between symphonic instumental melodies and nature, specifically flowers.**
 
 **How did you decide on the footage that you used to shape your project?**
