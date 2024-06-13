@@ -5,11 +5,14 @@ snippet: WEEK 10 - SESSION 1
 
 ---
 **Assignment 1 Video Edit**
-_## How did you approach the relationship between the sonic and visual components of your edit?_
-**My concept of a nature centred video surrounding the idea of connection between symphonic instumental melodies and nature, specifically flowers.**
+## How did you approach the relationship between the sonic and visual components of your edit?
+**My concept for the video edit was based on nature, surrounding the idea of a connection between symphonic instumental melodies and nature, specifically flowers. I attempted to create a melody which was calm and inspiring, similar to the stillness of the nature featured in my video.**
 
-**How did you decide on the footage that you used to shape your project?**
-**What did you learn about the power of sound to shape emotional experience, and how did you apply this knowledge to your project?**
+## How did you decide on the footage that you used to shape your project?
+**In order to decide and consider certain footage that would be used in my project, I first articulated the main concept and meaning behind the video which is centred on the meaning of my name, Evanthia, flower; blossom. After I had thought about my concept I was then able to target and decide on footage that captured nature and flora, which shaped my project entirely. Another aspect of my project was the relation to Claude Monet. As I was composing the soundtrack, I constantly noticed the Water-Lily painting above my piano, this being another inspiration applied in the final video.**
+
+## What did you learn about the power of sound to shape emotional experience, and how did you apply this knowledge to your project?
+**Sound isn't as simple as a few instruments put together to create a melody, it is more than the instrument, as it delves into the emotional appeal to listeners, each interpreting it differently however universally we all sense a common emotion in a particular melody or soundtrack. The power of sound within my video varied, in terms of the volume levels and the emotional sense. I learnt that there can be a balance between sound effects and soundtrack, in which the focus is taken away from one or the other at times throughout the video
 **How does editing relate to the concepts of pacing and rhythm, and how did you use these concepts to shape your use of time in the project?** 
 **Which parts of your personality, interests, past, and potential future did you choose to depict in your portrait? What were the primary aesthetic choices that you made to express those ideas in your work?**
 
@@ -29,6 +32,7 @@ _## How did you approach the relationship between the sonic and visual component
 **How did you unify the different elements of your virtual environment under a certain themeor concept?**
 **How did your theme or concept evolve over the project’s development?**
 **What did you discover through the process of play testing that you wouldn’t have discovered otherwise?**
+
 **I was inspired by the classical and impressionism art movement which I have articulated in my webpage. Both represent my interest and appreciation of classical and elegant design which embody my personality. Specifically, I have attempted to closely base my design from Claude Monet and his artwork due to a connection in my first project from the Digital Media Studio 1: Production course. The reason behind adding an artwork by Claude Monet called, The Water-Lily Pond, is because of the nature and bridge. The bridge is represented in my third assignment as new beginnings and the lily pond in my first as growth, purposefully building a connection between my projects in order to emphasise my admiration for both classical art and the appreciation of nature through design. I gained inspiration from the Claude Monet painting above my piano and the idea of new beginnings in my 3D digital environment.**
 
 <!-- 1. In a blog post, answer the self reflection questions from the lecture in as much detail as you can. 
