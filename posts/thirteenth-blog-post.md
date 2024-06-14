@@ -62,9 +62,11 @@ _**Assignment 3 - Virtual Environment**_
 
 ## How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?
 
-**Through sound I was able to effectively convey my two themes of overwhelmingness and peace. Sound was not a sole component it was paired with the environment across all my projects, as I chose to closely relate my sound in some way to the visuals. In this project I paired the towering city buildings of a dull colour, with a tense and overwhelming futuristic sound, compared to the open line of trees, colourful and soft visuals of my second environment paired with a tranquil and calm sound.**
+**Through sound I was able to effectively convey my two themes of overwhelmingness and peace. Sound was not a sole component, it was paired with the environment across all my projects, as I chose to closely relate my sound in some way to the visuals. In this project I paired the towering city buildings of a dull colour, with a tense and overwhelming futuristic sound, compared to the open line of trees, colourful and soft visuals of my second environment, paired with a tranquil and calm sound. In comparison to my use of sound in Assignment 1 and 2**
 
 ## How did you unify the different elements of your virtual environment under a certain theme or concept?
+
+**For my first environment, the cityscape, the different elements consisted of towering city buildings, roadblocks and a road sign. I was able to unify these elements through the music and positioning of each asset. 
 
 ## How did your theme or concept evolve over the project’s development?
 
