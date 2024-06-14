@@ -4,7 +4,8 @@ published_at: 2024-05-28T15:00:00.000Z
 snippet: WEEK 10 - SESSION 1
 
 ---
-**Assignment 1 Video Edit**
+_**Assignment 1 Video Edit**_
+
 ## How did you approach the relationship between the sonic and visual components of your edit?
 **My concept for the video edit was based on nature, surrounding the idea of a connection between symphonic instumental melodies and nature, specifically flowers. I attempted to create a melody which was calm and inspiring, similar to the stillness of the nature featured in my video.**
 
@@ -20,7 +21,7 @@ snippet: WEEK 10 - SESSION 1
 ## Which parts of your personality, interests, past, and potential future did you choose to depict in your portrait? What were the primary aesthetic choices that you made to express those ideas in your work?
 **I focused on my personality and interests, rather than potential future. The concept of flowers and relation to my name, depict the softness of my personality and my values and qualities of sincerity, honesty, selflessness, kindness, humility and compassion. I expressed my personality and interests through the visuals of flowers and the soundtrack. The soundtrack was a meaningful addition to the video as I composed it to signify my interest in classical art, music and elegant design styles, while also incorporating the Claude Monet artwork. I chose to depict how classicl music, art and flowers can be expressed through design as they embody characteristics from an era of the past, which I deeply appreciate and admire, as well as the symbolic meaning of flowers in my video, being hope and appreciation of the smaller details.**
 
-**Assignment 2 - Graphic Icons**
+_**Assignment 2 - Graphic Icons**_
 
 ## How would you summarise your idea behind the suite of icons, and why did you choose the theme that you did?
 **When I first began to choose the theme for the suite of icons, I was drawn towards the theme of calm. Throughout all my projects I have drifted towards themes of peace, tranquility and growth as they realte to my interests, personality, past and new beginnings for the future. Generating ideas in terms of 9 different icons that represent and embody the theme of calm was difficult at first, as I was looking at the world literally rather than metaphorically and emotionally. At first I thought of the general dove, meditation and leaf symbols of calmness however they were too common and didn't evoke an originality based on my own interpretation and emotion. I finally developed 9 icons with the idea of my personal interests and favourable things, such as the dango, a japanese dessert, which is one of my favourites, especially the combination of colours in the dessert. The idea of a dessert synbolising calm, alongside a dessert of my liking, is how I continued to develop my icons, relating back to myself. I continued through with sub themes such as, tea, dessert, nature, weather, plants, home, peace, rest and home.** 
@@ -47,13 +48,24 @@ snippet: WEEK 10 - SESSION 1
 **I was drawn towards calm as it resonated with my personality. It was quite abstract at first however after I brainstormed beyond the literal word I created a list of sub themes. From the 9 sub themes I was able to generate 5 different icons.**
 
 _**Assignment 3 - Virtual Environment**_
-**How important was a working prototype to your design process? What did it offer that process?**
-**How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?**
-**What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?**
-**How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?**
-**How did you unify the different elements of your virtual environment under a certain themeor concept?**
-**How did your theme or concept evolve over the project’s development?**
-**What did you discover through the process of play testing that you wouldn’t have discovered otherwise?**
+
+## How important was a working prototype to your design process? What did it offer that process?
+
+**For my working prototype I designed a very simple and unrelated prototype as a draft in order for me to build my skill in creating pathways and terrains. My prototype included a first person camera and a simple mountain terrain, with the direction of the pathway mapped out by the raised and lowered mountains and the proximity between them to represent a clear path. I also added a purple and pink type sunset skybox to check how the shadows fall on the terrain.**
+
+## How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?
+**My experience in designing two-dimensional media contrast greatly with designing a three-dimensional ennvironment
+
+## What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?
+
+## How did you use sound in your project, and how was this similar to and different from your use of sound in Assignments 1 and 2?
+
+## How did you unify the different elements of your virtual environment under a certain themeor concept?
+
+## How did your theme or concept evolve over the project’s development?
+
+## What did you discover through the process of play testing that you wouldn’t have discovered otherwise?
+
 
 _**Webpage Ideation**_
 **I was inspired by the classical and impressionism art movement which I have articulated in my webpage. Both represent my interest and appreciation of classical and elegant design which embody my personality. Specifically, I have attempted to closely base my design from Claude Monet and his artwork due to a connection in my first project from the Digital Media Studio 1: Production course. The reason behind adding an artwork by Claude Monet called, The Water-Lily Pond, is because of the nature and bridge. The bridge is represented in my third assignment as new beginnings and the lily pond in my first as growth, purposefully building a connection between my projects in order to emphasise my admiration for both classical art and the appreciation of nature through design. I gained inspiration from the Claude Monet painting above my piano and the idea of new beginnings in my 3D digital environment.**
