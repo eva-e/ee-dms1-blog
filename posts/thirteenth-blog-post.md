@@ -41,11 +41,12 @@ snippet: WEEK 10 - SESSION 1
 **This colour palette correlated with my idea of food and the cozy feeling of rain, reading and a homely presence. The inspiration for the base colours came from dango, tea and other foods. While my initial thought was based on food and desserts I was able to incorporate this colour palette into my non food related icons, such as the lotus, rain cloud, book, lamp, sakura, tea, seashell and plant.**
 
 ## How did the elements and principles of sound that you used in your audio design correspond to the elements and principles of design that you used in your visual design?
-**
+**Throughout my video there was always an individual purpose for each of my sounds that correlated with the visuals. The duration of the soundtrack was from the start of the video to the end scene of the piano, with moments of lowering the main track to enhance the sound effects. I intentionally ended the soundtrack at the jump cut to black, as I anticipated for a contrast between the flower and symphony part of the video to finally present the piano and artwork, the two inspirations of the video and a loved hobby of mine, playing the piano. The end scene was accompanied by a soft rain sound another symbol of tranquility. in which the audience would feel at peace compared to the hopeful feeling of most of the video.**
 
-**How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?**
+## How did you translate the prompt that you chose from an abstract idea to a set of concrete visual designs?
+**I was drawn towards calm as it resonated with my personality. It was quite abstract at first however after I brainstormed beyond the literal word I created a list of sub themes. From the 9 sub themes I was able to generate 5 different icons.**
 
-**Assignment 3 - Virtual Environment**
+_**Assignment 3 - Virtual Environment**_
 **How important was a working prototype to your design process? What did it offer that process?**
 **How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?**
 **What was the role of the virtual camera in your project, and how was it similar to and different from the role of the camera in Assignment 1?**
