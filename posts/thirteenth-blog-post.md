@@ -73,6 +73,8 @@ _**Assignment 3 - Virtual Environment**_
 
 ## What did you discover through the process of play testing that you wouldn’t have discovered otherwise?
 
+**Playtesting was a crucial part of making changes and improving my environment as I was able to obtain feedback based on the individual perspective of my play tester. Based on their feedback, I had an issue with my mesh collider in the corner of a building which I wouldn't have discovered as I had never moved my first person object towards that part of the building.**
+
 
 _**Webpage Ideation**_
 
