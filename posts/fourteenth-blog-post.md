@@ -6,10 +6,11 @@ snippet: WEEK 10 - SESSION 2
 ---
 _**Artist Statement Draft**_
 
-<!-- A biography is a detailed description of someone’s life. An artist or designer bio is a
-focused description of an artist or designer’s career.
-• After you’ve had some practice writing statements for individual works, you can gather
-them together and look for any patterns. What are the themes, techniques, interests,
+**Hello and welcome to my portfolio website. My name is Evanthia (Eva) Evgenidis and I am a first year Design Student at the Royal Melbourne Institute of Technology (RMIT). From a young age I have had a passion for expressing my emotions and thoughts through design using a diverse range of visual arts, such as painting, sketching, photography, videography and crafts. Presently, I am beginning to discover my areas of interest and techniques in design, while also representing my originality and personality throughout it. My journey as a creative practitioner in design began with the production of a variety of design projects which entailed distinct design modes and techniques, including videography, sound composition, film editing, two-dimensional graphic design, three-dimensional environment design and finally website design. Across all my projects I have remained with the theme of growth, peace, tranquility and hope. Creatively, I strive for audiences to feel calm and intrigued by the appreciation of nature through design, building a connection between my admiration and love for nature to the wider community of viewers to also find wonder in the smaller details. Nature is a common feature within each of my projects as well as my favoured colour palette, consisting of the colour green, pink and white or cream.
+
+During the course of this semester I have utilised multiple softwares which were new to me. 
+
+<!-- What are the themes, techniques, interests,
 and ideas that are common across your work?
 • This will start to give you a sense of where your interests and tastes lie as a creative
 practitioner. You can also reflect on your experiences this semester: which project did
@@ -20,7 +21,8 @@ specialise in later on in the program, not only in terms of broad categories (di
 digital sound, digital environments, or web) but also in terms of more specific focuses.
 • The biography is also the place for you to distinguish yourself in terms of more personal
 touches and details, should be written in such a way as to introduce or conclude the
-rest of your webpage, rather than being a standalone statement. -->
+rest of your webpage, rather than being a standalone statement. --> -->
+
 
 _**Wireframe Drafts**_
 
