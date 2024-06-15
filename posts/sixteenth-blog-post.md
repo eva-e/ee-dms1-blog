@@ -29,7 +29,11 @@ _**Final Design Complete**_
 
 _**About Me Section Designs**_
 
+![alt text](/images/firstaboutme.png)
 
+![alt text](/images/secondaboutme.png)
+
+![alt text](/images/finalaboutme.png)
 
 
 
