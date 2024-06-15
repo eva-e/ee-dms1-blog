@@ -1,6 +1,6 @@
 ---
 title: My Thirteenth Blog Post
-published_at: 2024-06-14T15:00:00.000Z
+published_at: 2024-06-12T15:00:00.000Z
 snippet: WEEK 10 - SESSION 1
 
 ---
