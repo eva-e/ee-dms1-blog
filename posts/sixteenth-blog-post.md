@@ -6,11 +6,21 @@ snippet: WEEK 11 - SESSION 2 & WEEK 12 SESSION 1
 ---
 
 _**Wireframe Improvements**_
-<!-- How can they be improved using grid layout. Document the wireframe progress. Changes since your first wireframe What's changed, and what's remained the same? Have you had to make any concessions, or have you managed to implement everything that you wanted to?-->
 
-_**First Design Iteration & Final Design Iteration**_
-<!-- 4. In the same post, compare the current iteration of your webpage with the version that you originally envisioned, and reflect on any differences between them. What's changed, and what's remained the same? Have you had to make any concessions, or have you managed to implement everything that you wanted to? --> 
-_**Wireframe Screenshots**_
+**My first iteration which was a very basic and undeveloped webpage layout design had a few features that were kept, with most of it entirely altered. Alongside the design, my first wireframe layout was the most alike with my final iteration. The first wireframe consisted of left and right aligned sections of information, with 3 buttons and a logo in the navigation bar area. Additionally I implemented classic artwork frames around the project screenthots, a contact and find me on section and refined the assignment sections, now having a title image, title, text and three screenshots of my projects. I went through a process of "final designs" which are within my theme and style. My screenshots show how the page evolved through my experimentation of positioning and elements.**
+
+_**Webpage Design Screenshots**_
+
+_**Final Design 1**_
+
+_**Final Design 2**_
+
+_**Final Design 3**_
+
+_**About Me Section Designs**_
+
+
+
 
 _**Webpage Attributions**_
 
