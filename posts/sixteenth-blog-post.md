@@ -40,6 +40,12 @@ _**About Me Section Designs**_
 
 _**Webpage Attributions**_
 
+Backgrounds:
+
+Image Frame:
+
+
+
  
 
 <!-- 3. Continue to implement the content of the website according to your wireframes, and document this process as you go on your blog. Make sure you maintain good design practice in the arrangement of your text and media elements, as outlined in this document Download this document.  -->
