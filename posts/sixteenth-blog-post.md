@@ -13,11 +13,23 @@ _**Webpage Design Screenshots**_
 
 _**Final Design 1**_
 
+![alt text](/images/finaldesign1.png)
+
 _**Final Design 2**_
+
+![alt text](/images/finaldesign2.png)
 
 _**Final Design 3**_
 
+![alt text](/images/finaldesign3.png)
+
+_**Final Design Complete**_
+
+![alt text](/images/finaldesigncomplete.png)
+
 _**About Me Section Designs**_
+
+
 
 
 
