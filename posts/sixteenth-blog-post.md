@@ -42,7 +42,17 @@ _**Webpage Attributions**_
 
 Backgrounds:
 
-Image Frame:
+Background 1: The National Gallery (2008). Claude Monet | The Water-Lily Pond | NG4240 | National Gallery, London. [online] Nationalgallery.org.uk. Available at: https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond.
+
+Background 2: World History Encyclopedia. (n.d.). A Pathway in Monet’s Garden by Monet. [online] Available at: https://www.worldhistory.org/image/15615/a-pathway-in-monets-garden-by-monet/.
+
+Background 3: Google Arts & Culture. (n.d.). Water Lilies - Claude Monet. [online] Available at: https://artsandculture.google.com/asset/water-lilies/AwFXeMnZK5jOBw.
+
+Background 4: 
+ 
+
+Image Frame: 
+
 
 
 
