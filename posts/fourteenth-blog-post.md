@@ -32,9 +32,6 @@ _**Wireframe Drafts**_
 _**First Design Draft**_
 
 ![alt text](/images/firstwebdraft.png)
-<!-- 2. Using the skills developed so far in the tutorials, implement as much of this content as you can in Figma. Don't worry too much about the layout or organisation for now.
-
-In tandem with this, focus on how you can use various visual elements to express your interests and tastes as an artist or designer. Document and comment on this process in a blog post. -->
 
 
 

@@ -42,18 +42,16 @@ _**Webpage Attributions**_
 
 Backgrounds:
 
-Background 1: The National Gallery (2008). Claude Monet | The Water-Lily Pond | NG4240 | National Gallery, London. [online] Nationalgallery.org.uk. Available at: https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond.
+**Background 1: The National Gallery (2008). Claude Monet | The Water-Lily Pond | NG4240 | National Gallery, London. [online] Nationalgallery.org.uk. Available at: https://www.nationalgallery.org.uk/paintings/claude-monet-the-water-lily-pond.**
 
-Background 2: World History Encyclopedia. (n.d.). A Pathway in Monet’s Garden by Monet. [online] Available at: https://www.worldhistory.org/image/15615/a-pathway-in-monets-garden-by-monet/.
+**Background 2: World History Encyclopedia. (n.d.). A Pathway in Monet’s Garden by Monet. [online] Available at: https://www.worldhistory.org/image/15615/a-pathway-in-monets-garden-by-monet/.**
 
-Background 3: Google Arts & Culture. (n.d.). Water Lilies - Claude Monet. [online] Available at: https://artsandculture.google.com/asset/water-lilies/AwFXeMnZK5jOBw.
+**Background 3: Google Arts & Culture. (n.d.). Water Lilies - Claude Monet. [online] Available at: https://artsandculture.google.com/asset/water-lilies/AwFXeMnZK5jOBw.**
 
-Background 4: 
-Wikimedia.org. (2022). File:Effet de printemps à Giverny (1890) Claude Monet (W 1245).jpg - Wikimedia Commons. [online] Available at: https://commons.wikimedia.org/wiki/File:Effet_de_printemps_%C3%A0_Giverny_(1890)_Claude_Monet_(W_1245).jpg
+**Background 4: Wikimedia.org. (2022). File:Effet de printemps à Giverny (1890) Claude Monet (W 1245).jpg - Wikimedia Commons. [online] Available at: https://commons.wikimedia.org/wiki/File:Effet_de_printemps_%C3%A0_Giverny_(1890)_Claude_Monet_(W_1245).jpg**
 
 
-Image Frame: 
-Sourced from Canva
+**Image Frame: Sourced from Canva**
 
 
 
