@@ -49,9 +49,14 @@ Background 2: World History Encyclopedia. (n.d.). A Pathway in Monet’s Garden 
 Background 3: Google Arts & Culture. (n.d.). Water Lilies - Claude Monet. [online] Available at: https://artsandculture.google.com/asset/water-lilies/AwFXeMnZK5jOBw.
 
 Background 4: 
+Wikimedia.org. (2022). File:Effet de printemps à Giverny (1890) Claude Monet (W 1245).jpg - Wikimedia Commons. [online] Available at: https://commons.wikimedia.org/wiki/File:Effet_de_printemps_%C3%A0_Giverny_(1890)_Claude_Monet_(W_1245).jpg
+
+‌
+
  
 
 Image Frame: 
+Sourced from Canva
 
 
 
