@@ -5,9 +5,11 @@ snippet: WEEK 11 - SESSION 1
 
 ---
 
+_**Iteration and Experimentation**_
+
+
 _**Wireframes**_
 
-_**Iteration and Experimentation**_
 
 
  <!-- Continue generating wireframes for your planned webpage. You can use a tool such as wireframe.ccLinks to an external site., software like Figma or Illustrator, or you can use pencil/pen and paper. Some additional tips for effective wireframing can be found hereLinks to an external site.. 

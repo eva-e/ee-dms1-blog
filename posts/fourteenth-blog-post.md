@@ -14,6 +14,7 @@ _**Assignment Summaries**_
 
 _**Assignment 1**_
 
+
 _**Assignment 2**_
 
 _**Assignment 3**_
@@ -22,6 +23,11 @@ _**Assignment 3**_
 
 _**Wireframe Drafts**_
 
+**Before adding my paragraphs I focused on the layout of the webpage, by mapping out each section. My process of designing was for a total of 5 days. In the early stages of my webpage I only had a very basic and first wireframe draft, a test page which was made during class. From the initial draft I later was set on a certain style and theme. I gained an idea after trying the grid layout wireframe and further refined it with a style that suited my overall theme of classical and impressionism art related to nature. I have included screenshots of my drafts below and my final designs and wireframes in the next post:**
+
+_**First Design Draft**_
+
+![alt text](/images/firstwebdraft.png)
 <!-- 2. Using the skills developed so far in the tutorials, implement as much of this content as you can in Figma. Don't worry too much about the layout or organisation for now.
 
 In tandem with this, focus on how you can use various visual elements to express your interests and tastes as an artist or designer. Document and comment on this process in a blog post. -->
